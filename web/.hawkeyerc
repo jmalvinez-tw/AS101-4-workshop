@@ -1,0 +1,12 @@
+{
+    "showCode": true,
+    "modules": [
+        "files-ccnumber",
+        "files-contents",
+        "files-secrets",
+        "python-bandit",
+        "python-safety",
+        "python-piprot"
+    ],
+    "failOn": "medium"
+}
